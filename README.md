@@ -2,7 +2,7 @@
 
 # About Me
 
-- My social media card: https://zyo.se/zeus7
+- My social media card: https://fakecrime.bio/zeus7
 - Currently working on improve my skills in programming
 
 # Contributions 
