@@ -1,4 +1,4 @@
-![Zeus7 Banner](https://i.imgur.com/RqUMZVD.jpeg) 
+![Zeus7 Banner](https://i.imgur.com/NjboW4U.jpeg) 
 
 # About Me
 
