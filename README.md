@@ -1,9 +1,7 @@
-![Zeus7 Banner](https://i.imgur.com/NjboW4U.jpeg) 
-
 # About Me
 
-- My social media card: https://fakecrime.bio/zeus7
 - Currently working on improve my skills in programming
+- Dev Junior in Python, Javascript, Java & C++
 
 # Contributions 
 
